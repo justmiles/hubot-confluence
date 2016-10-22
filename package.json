@@ -1,0 +1,29 @@
+{
+  "name": "hubot-confluence",
+  "version": "1.0.0",
+  "description": "A Hubot script to interact with Atlassian Confluence",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:justmiles/hubot-confluence.git"
+  },
+  "keywords": [
+    "hubot",
+    "confluence"
+  ],
+  "author": "justmiles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmiles/hubot-confluence/issues"
+  },
+  "homepage": "https://github.com/justmiles/hubot-confluence",
+  "dependencies": {
+    "atlassian-confluence": "^1.0.4"
+  }
+}
